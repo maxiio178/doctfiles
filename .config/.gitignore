@@ -4,6 +4,6 @@
 #Excepto por los archivos que desea conservar
 
 !.gitignore
-! qile
-! kitty
-! picom
+!qile
+!kitty
+!picom
