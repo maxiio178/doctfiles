@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Andromeda Colorizer",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "redhat.telemetry.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

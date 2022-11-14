@@ -1,0 +1,21 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Carpeta de inicio[path]/home/scalybur"
+"Escritorio[path]/home/scalybur/Desktop"
+"Colecciones[path]/home/scalybur/.local/share/geeqie/collections"
+
+[path_list]
+"/home/scalybur/.themes/dracula"
+"/home/scalybur/Imágenes"
+"/home/scalybur/Descargas"
+"/home/scalybur"
+
+[image_list]
+"/home/scalybur/.themes/dracula/screenshot.png"
+"/home/scalybur/Imágenes/312510806_5894925640531800_267949394298167825_n.jpg"
+"/home/scalybur/Descargas/Dracula.png"
+"/home/scalybur/2022-10-30-152824_1366x768_scrot.png"
+
+#end

@@ -1,0 +1,9 @@
+#Ignora todo
+/*
+
+#Excepto por los archivos que desea conservar
+
+!.gitignore
+! qile
+! kitty
+! picom
